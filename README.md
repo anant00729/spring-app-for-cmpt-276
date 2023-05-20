@@ -12,3 +12,8 @@ Start by setting up an Azure account, which involves a simple process. Initially
 
 ### Great!
 
+Before deploying the application, the first step is to create a "Resource Group."
+
+On the homepage, locate the search bar at the top and enter "Resource Group." From the search results, select the "Resource Group" option.
+
+
