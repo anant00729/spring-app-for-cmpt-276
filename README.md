@@ -12,6 +12,8 @@ Start by setting up an Azure account, which involves a simple process. Initially
 
 ### Great!
 
+## Setup "Resource Group"
+
 Before deploying the application, the first step is to create a "Resource Group."
 
 On the homepage, locate the search bar at the top and enter "Resource Group." From the search results, select the "Resource Group" option.
@@ -30,9 +32,11 @@ After successfully creating the resource group, a confirmation page will be disp
 
 <img width="1200" alt="Screen Shot 2023-05-20 at 3 09 13 PM" src="https://github.com/anant00729/spring-app-for-cmpt-276/assets/20675885/276a82b1-9978-4a38-90d6-a02960867bf9"><br>
 
+## Creating "App Services"
+
 Once completed, you will see your resource group name listed in the table. 
 
-Now, return to the homepage and use the search bar to search for "App Services."
+Now, return to the homepage and use the search bar to search for "App Services"
 
 <img width="1200" alt="Screen Shot 2023-05-20 at 3 09 24 PM" src="https://github.com/anant00729/spring-app-for-cmpt-276/assets/20675885/a854cecc-fb5a-41a5-8978-be9e545f4cc6"><br>
 
@@ -56,6 +60,8 @@ After few secounds you will see a confirmation page
 
 <img width="1200" alt="Screen Shot 2023-05-20 at 3 11 38 PM" src="https://github.com/anant00729/spring-app-for-cmpt-276/assets/20675885/975b03e1-bbc0-4466-b3cf-f41b9dd04fce"><br>
 
+## Creating Github Repository for the Spring Boot Application
+
 Now, let's create a repository on your GitHub account.
 
 First, create a new repository on GitHub.
@@ -73,7 +79,7 @@ git remove add origin <your-root-github-repository-url>
 git push origin master
 ```
 
-
+## Connecting Github Reposotory with App Service
 
 Now, connect/link your GitHub account and repository to the "App Service" you have created on Azure, as illustrated below.
 
@@ -90,7 +96,6 @@ Click on the "Save" button at the top left. Now click on the "Deployment Center"
 ### Phew! We're almost there.
 
 After finishing the previous step, click on the link located in the "Log" column. It will open a new tab with this page.
-
 
 <img width="1200" alt="Screen Shot 2023-05-20 at 3 16 53 PM" src="https://github.com/anant00729/spring-app-for-cmpt-276/assets/20675885/3376ba48-417f-4576-bafd-9487b40a9ab6"><br>
 
